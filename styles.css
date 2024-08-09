@@ -1,0 +1,14 @@
+body {
+    color: hsl(0, 0%, 0%);
+    background: hwb(0 100% 0%);
+    margin: 0px;
+    
+}
+
+header {
+    border : solid 2px#ff1414;
+    padding : 20px;
+    font-size: 50px;
+    color: blueviolet;
+    
+}
