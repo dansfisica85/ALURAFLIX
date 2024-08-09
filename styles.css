@@ -1,6 +1,6 @@
 body {
     color: hsl(0, 0%, 0%);
-    background: hwb(0 100% 0%);
+    background: rgb(222, 29, 29);
     margin: 0px;
     
 }
@@ -10,6 +10,6 @@ header {
     border-bottom: solid 2px rgb(41, 122, 228);
     padding : 20px;
     font-size: 50px;
-    color: blueviolet;
+    color: #a3888b;
     
 }
