@@ -1,17 +1,5 @@
-body {
-    color: white;
-    background: #7ccaff;
-    margin: 0px;
-}
-
 header {
-    border-bottom: solid 2px rgb(41, 122,228);
-    padding : 20px;
-    font-size: 50px;
-    color: blueviolet;
-}
-
-section {
-    margin: 800px;
-    padding: auto;
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(42, 122, 228);
 }
